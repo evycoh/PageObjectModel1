@@ -1,0 +1,37 @@
+2022-12-04 12:54:21,103 [main] INFO pages.BasePage - Clicked on amount dropdown button
+2022-12-04 12:54:21,180 [main] INFO pages.BasePage - Select 200 from amount dropdown dropdown
+2022-12-04 12:54:21,336 [main] INFO pages.BasePage - Clicked on Area dropdown button
+2022-12-04 12:54:21,432 [main] INFO pages.BasePage - Select דרום from area dropdown dropdown
+2022-12-04 12:54:21,572 [main] INFO pages.BasePage - Clicked on Category dropdown button
+2022-12-04 12:54:21,672 [main] INFO pages.BasePage - Select שף from category dropdown dropdown
+2022-12-04 12:54:21,894 [main] INFO pages.BasePage - Clicked on search gift button
+2022-12-04 12:54:22,660 [main] INFO pages.BasePage - Clicked on GiftCard: //span[@class='name bm-subtitle-1'][text()='%value%']
+2022-12-04 12:54:22,905 [main] INFO pages.BasePage - Sending Keys to amount : 123
+2022-12-04 12:54:23,076 [main] INFO pages.BasePage - Clicked on money
+2022-12-04 12:54:23,723 [main] INFO pages.BasePage - Sending Keys to Receiver name : myFriend
+2022-12-04 12:54:23,791 [main] INFO pages.BasePage - Clicked on Bless dropdown
+2022-12-04 12:54:23,856 [main] INFO pages.BasePage - Select תודה from Bless dropdown dropdown
+2022-12-04 12:54:23,960 [main] INFO pages.BasePage - Clearing Tet from Custom bless input
+2022-12-04 12:54:24,061 [main] INFO pages.BasePage - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-04 12:54:24,370 [main] INFO pages.BasePage - Clicked on continueBtn
+2022-12-04 12:54:24,580 [main] INFO pages.BasePage - Clicked on Later Button
+2022-12-04 12:54:24,677 [main] INFO pages.BasePage - Clicked on Calender
+2022-12-04 12:54:24,713 [main] INFO pages.BasePage - Return Text from MonthDateValue : דצמבר
+2022-12-04 12:54:24,830 [main] INFO pages.BasePage - Return Text from MonthDateValue : ינואר
+2022-12-04 12:54:24,897 [main] INFO pages.BasePage - Return Text from MonthDateValue : פברואר
+2022-12-04 12:54:24,972 [main] INFO pages.BasePage - Return Text from MonthDateValue : מרץ
+2022-12-04 12:54:25,050 [main] INFO pages.BasePage - Return Text from MonthDateValue : אפריל
+2022-12-04 12:54:25,112 [main] INFO pages.BasePage - Return Text from MonthDateValue : מאי
+2022-12-04 12:54:25,185 [main] INFO pages.BasePage - Return Text from MonthDateValue : יוני
+2022-12-04 12:54:25,265 [main] INFO pages.BasePage - Return Text from MonthDateValue : יולי
+2022-12-04 12:54:25,370 [main] INFO pages.BasePage - Select 8 from day dropdown
+2022-12-04 12:54:25,509 [main] INFO pages.BasePage - Clicked on date dropdown
+2022-12-04 12:54:25,612 [main] INFO pages.BasePage - Select 11:15 from hour dropdown
+2022-12-04 12:54:25,728 [main] INFO pages.BasePage - Clicked on email button
+2022-12-04 12:54:25,842 [main] INFO pages.BasePage - Sending Keys to email input : myEmail@xyz.com
+2022-12-04 12:54:25,907 [main] INFO pages.BasePage - Sending Keys to name : me
+2022-12-04 12:54:26,004 [main] INFO pages.BasePage - Clicked on Continue btn
+2022-12-04 12:54:26,216 [main] INFO pages.BasePage - Sending Keys to email : userEmail1@xyz.com
+2022-12-04 12:54:26,317 [main] INFO pages.BasePage - Sending Keys to password : a1b1c1d1X
+2022-12-04 12:54:26,415 [main] INFO pages.BasePage - Clicked on loginBtn
+2022-12-04 12:54:29,717 [main] INFO pages.BasePage - Return Text from payment : ₪123
