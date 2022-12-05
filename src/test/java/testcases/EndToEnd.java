@@ -1,5 +1,6 @@
 package testcases;
 
+import Assertion.AssertionHelper;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.Pages;
@@ -19,7 +20,7 @@ public class EndToEnd extends TestBase {
         Pages.WhoToSendPage().
                 setReceiveGiftCardName("myFriend").selectBlessFromDropdown("תודה").
                 setCustomBlessing("מזל טוב והמון תודה")
-                .setPhotoPath("C:\\Users\\evyco\\IdeaProjects\\PageObjectModel1\\src\\main\\resources\\cat.png").
+                .setPhotoPath(System.getProperty("user.dir")+"/src/main/resources/cat.png").
                 clickContinueButton();
         Pages.HowToSendPage().
                 clickSendGiftCardLater().
@@ -30,7 +31,7 @@ public class EndToEnd extends TestBase {
                 clickContinueBtn();
         Pages.LoginPage().
                 setEmail("userEmail1@xyz.com").setPassword("a1b1c1d1X").clickLogin();
-        Assert.assertEquals(Pages.PaymentPage().getPayment(), "123");
+        AssertionHelper.verifyEquals(Pages.PaymentPage().getPayment(),"123");
 
     }
 }
