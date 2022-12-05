@@ -35,3 +35,265 @@
 2022-12-04 12:54:26,317 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
 2022-12-04 12:54:26,415 - pages.BasePage -INFO - Clicked on loginBtn
 2022-12-04 12:54:29,717 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:36:09,282 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:36:09,357 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:36:09,513 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:36:09,603 - pages.BasePage -INFO - Select דרום from area dropdown dropdown
+2022-12-05 13:36:09,761 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:36:09,846 - pages.BasePage -INFO - Select שף from category dropdown dropdown
+2022-12-05 13:36:10,073 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:36:10,915 - pages.BasePage -INFO - Clicked on GiftCard: מסעדת אברטו Aberto
+2022-12-05 13:36:11,179 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:36:11,352 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:36:11,965 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:36:12,029 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:36:12,095 - pages.BasePage -INFO - Select תודה from Bless dropdown dropdown
+2022-12-05 13:36:12,210 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:36:12,298 - pages.BasePage -INFO - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-05 13:36:12,603 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:36:12,782 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:36:12,859 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:36:12,903 - pages.BasePage -INFO - Return Text from MonthDateValue : דצמבר
+2022-12-05 13:36:13,028 - pages.BasePage -INFO - Return Text from MonthDateValue : ינואר
+2022-12-05 13:36:13,123 - pages.BasePage -INFO - Return Text from MonthDateValue : פברואר
+2022-12-05 13:36:13,201 - pages.BasePage -INFO - Return Text from MonthDateValue : מרץ
+2022-12-05 13:36:13,276 - pages.BasePage -INFO - Return Text from MonthDateValue : אפריל
+2022-12-05 13:36:13,348 - pages.BasePage -INFO - Return Text from MonthDateValue : מאי
+2022-12-05 13:36:13,421 - pages.BasePage -INFO - Return Text from MonthDateValue : יוני
+2022-12-05 13:36:13,490 - pages.BasePage -INFO - Return Text from MonthDateValue : יולי
+2022-12-05 13:36:13,584 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:36:13,734 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:36:13,813 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:36:13,923 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:36:14,030 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:36:14,113 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:36:14,212 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:36:14,466 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:36:14,585 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:36:14,661 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:36:17,697 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:39:53,118 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:39:53,187 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:39:53,335 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:39:53,412 - pages.BasePage -INFO - Select דרום from area dropdown dropdown
+2022-12-05 13:39:53,557 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:39:53,647 - pages.BasePage -INFO - Select שף from category dropdown dropdown
+2022-12-05 13:39:53,869 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:39:54,715 - pages.BasePage -INFO - Clicked on GiftCard: מסעדת אברטו Aberto
+2022-12-05 13:39:54,944 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:39:55,097 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:39:55,695 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:39:55,759 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:39:55,820 - pages.BasePage -INFO - Select תודה from Bless dropdown dropdown
+2022-12-05 13:39:55,921 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:39:56,003 - pages.BasePage -INFO - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-05 13:39:56,236 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:39:56,428 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:39:56,499 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:39:56,539 - pages.BasePage -INFO - Return Text from MonthDateValue : דצמבר
+2022-12-05 13:39:56,663 - pages.BasePage -INFO - Return Text from MonthDateValue : ינואר
+2022-12-05 13:39:56,750 - pages.BasePage -INFO - Return Text from MonthDateValue : פברואר
+2022-12-05 13:39:56,832 - pages.BasePage -INFO - Return Text from MonthDateValue : מרץ
+2022-12-05 13:39:56,910 - pages.BasePage -INFO - Return Text from MonthDateValue : אפריל
+2022-12-05 13:39:56,984 - pages.BasePage -INFO - Return Text from MonthDateValue : מאי
+2022-12-05 13:39:57,055 - pages.BasePage -INFO - Return Text from MonthDateValue : יוני
+2022-12-05 13:39:57,120 - pages.BasePage -INFO - Return Text from MonthDateValue : יולי
+2022-12-05 13:39:57,230 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:39:57,376 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:39:57,462 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:39:57,572 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:39:57,691 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:39:57,765 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:39:57,869 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:39:58,065 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:39:58,150 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:39:58,242 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:40:01,358 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:40:56,354 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:40:56,422 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:40:56,579 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:40:56,664 - pages.BasePage -INFO - Select דרום from area dropdown dropdown
+2022-12-05 13:40:56,796 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:40:56,887 - pages.BasePage -INFO - Select שף from category dropdown dropdown
+2022-12-05 13:40:57,118 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:40:57,846 - pages.BasePage -INFO - Clicked on GiftCard: מסעדת אברטו Aberto
+2022-12-05 13:40:58,067 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:40:58,229 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:40:58,822 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:40:58,885 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:40:58,947 - pages.BasePage -INFO - Select תודה from Bless dropdown dropdown
+2022-12-05 13:40:59,068 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:40:59,159 - pages.BasePage -INFO - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-05 13:41:00,296 - pages.BasePage -ERROR - Failed to click oncontinueBtn
+2022-12-05 13:41:04,274 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:41:04,360 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:41:04,453 - pages.BasePage -INFO - Return Text from MonthDateValue : דצמבר
+2022-12-05 13:41:04,555 - pages.BasePage -INFO - Return Text from MonthDateValue : ינואר
+2022-12-05 13:41:04,637 - pages.BasePage -INFO - Return Text from MonthDateValue : פברואר
+2022-12-05 13:41:04,720 - pages.BasePage -INFO - Return Text from MonthDateValue : מרץ
+2022-12-05 13:41:04,801 - pages.BasePage -INFO - Return Text from MonthDateValue : אפריל
+2022-12-05 13:41:04,874 - pages.BasePage -INFO - Return Text from MonthDateValue : מאי
+2022-12-05 13:41:04,943 - pages.BasePage -INFO - Return Text from MonthDateValue : יוני
+2022-12-05 13:41:05,014 - pages.BasePage -INFO - Return Text from MonthDateValue : יולי
+2022-12-05 13:41:05,119 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:41:05,285 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:41:05,672 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:41:05,796 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:41:05,919 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:41:05,989 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:41:06,090 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:41:06,291 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:41:06,372 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:41:06,463 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:41:10,109 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:42:55,865 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:42:55,932 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:42:56,071 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:42:56,167 - pages.BasePage -INFO - Select דרום from area dropdown dropdown
+2022-12-05 13:42:56,293 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:42:56,383 - pages.BasePage -INFO - Select שף from category dropdown dropdown
+2022-12-05 13:42:56,599 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:42:57,496 - pages.BasePage -INFO - Clicked on GiftCard: מסעדת אברטו Aberto
+2022-12-05 13:42:57,731 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:42:57,884 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:42:58,528 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:42:58,593 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:42:58,654 - pages.BasePage -INFO - Select תודה from Bless dropdown dropdown
+2022-12-05 13:42:58,749 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:42:58,836 - pages.BasePage -INFO - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-05 13:42:59,069 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:42:59,243 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:42:59,316 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:42:59,354 - pages.BasePage -INFO - Return Text from MonthDateValue : דצמבר
+2022-12-05 13:42:59,475 - pages.BasePage -INFO - Return Text from MonthDateValue : ינואר
+2022-12-05 13:42:59,546 - pages.BasePage -INFO - Return Text from MonthDateValue : פברואר
+2022-12-05 13:42:59,636 - pages.BasePage -INFO - Return Text from MonthDateValue : מרץ
+2022-12-05 13:42:59,711 - pages.BasePage -INFO - Return Text from MonthDateValue : אפריל
+2022-12-05 13:42:59,780 - pages.BasePage -INFO - Return Text from MonthDateValue : מאי
+2022-12-05 13:42:59,845 - pages.BasePage -INFO - Return Text from MonthDateValue : יוני
+2022-12-05 13:42:59,914 - pages.BasePage -INFO - Return Text from MonthDateValue : יולי
+2022-12-05 13:43:00,011 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:43:00,167 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:43:00,256 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:43:00,366 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:43:00,486 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:43:00,559 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:43:00,660 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:43:00,907 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:43:01,012 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:43:01,084 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:43:04,106 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:48:34,377 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:48:34,450 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:48:34,594 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:48:34,675 - pages.BasePage -INFO - Select דרום from area dropdown dropdown
+2022-12-05 13:48:34,805 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:48:34,886 - pages.BasePage -INFO - Select שף from category dropdown dropdown
+2022-12-05 13:48:35,100 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:48:35,901 - pages.BasePage -INFO - Clicked on GiftCard: מסעדת אברטו Aberto
+2022-12-05 13:48:36,144 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:48:36,305 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:48:36,897 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:48:36,961 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:48:37,021 - pages.BasePage -INFO - Select תודה from Bless dropdown dropdown
+2022-12-05 13:48:37,118 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:48:37,196 - pages.BasePage -INFO - Sending Keys to custom bless input : מזל טוב והמון תודה
+2022-12-05 13:48:37,439 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:48:37,612 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:48:37,686 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:48:37,723 - pages.BasePage -INFO - Return Text from MonthDateValue : דצמבר
+2022-12-05 13:48:37,846 - pages.BasePage -INFO - Return Text from MonthDateValue : ינואר
+2022-12-05 13:48:37,932 - pages.BasePage -INFO - Return Text from MonthDateValue : פברואר
+2022-12-05 13:48:38,016 - pages.BasePage -INFO - Return Text from MonthDateValue : מרץ
+2022-12-05 13:48:38,090 - pages.BasePage -INFO - Return Text from MonthDateValue : אפריל
+2022-12-05 13:48:38,163 - pages.BasePage -INFO - Return Text from MonthDateValue : מאי
+2022-12-05 13:48:38,229 - pages.BasePage -INFO - Return Text from MonthDateValue : יוני
+2022-12-05 13:48:38,296 - pages.BasePage -INFO - Return Text from MonthDateValue : יולי
+2022-12-05 13:48:38,390 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:48:38,547 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:48:38,628 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:48:38,737 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:48:38,864 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:48:38,936 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:48:39,036 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:48:39,361 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:48:39,463 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:48:39,538 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:48:42,492 - pages.BasePage -INFO - Return Text from payment : ₪123
+2022-12-05 13:48:42,496 - Assertion.AssertionHelper -INFO - Verify if 123Equals with 123
+2022-12-05 13:50:49,998 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:50:50,073 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:50:50,220 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:50:50,302 - pages.BasePage -INFO - Select ???? from area dropdown dropdown
+2022-12-05 13:50:50,429 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:50:50,507 - pages.BasePage -INFO - Select ?? from category dropdown dropdown
+2022-12-05 13:50:50,740 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:50:51,441 - pages.BasePage -INFO - Clicked on GiftCard: ????? ????? Aberto
+2022-12-05 13:50:51,675 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:50:51,837 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:50:52,480 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:50:52,542 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:50:52,600 - pages.BasePage -INFO - Select ???? from Bless dropdown dropdown
+2022-12-05 13:50:52,696 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:50:52,782 - pages.BasePage -INFO - Sending Keys to custom bless input : ??? ??? ????? ????
+2022-12-05 13:50:53,007 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:50:53,179 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:50:53,250 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:50:53,289 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:50:53,407 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:50:53,491 - pages.BasePage -INFO - Return Text from MonthDateValue : ??????
+2022-12-05 13:50:53,569 - pages.BasePage -INFO - Return Text from MonthDateValue : ???
+2022-12-05 13:50:53,643 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:50:53,716 - pages.BasePage -INFO - Return Text from MonthDateValue : ???
+2022-12-05 13:50:53,783 - pages.BasePage -INFO - Return Text from MonthDateValue : ????
+2022-12-05 13:50:53,854 - pages.BasePage -INFO - Return Text from MonthDateValue : ????
+2022-12-05 13:50:53,952 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:50:54,094 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:50:54,184 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:50:54,297 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:50:54,405 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:50:54,483 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:50:54,579 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:50:54,872 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:50:54,976 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:50:55,046 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:50:58,487 - pages.BasePage -INFO - Return Text from payment : ?123
+2022-12-05 13:50:58,491 - Assertion.AssertionHelper -INFO - Verify if 123Equals with 123
+2022-12-05 13:52:48,580 - pages.BasePage -INFO - Clicked on amount dropdown button
+2022-12-05 13:52:48,643 - pages.BasePage -INFO - Select 200 from amount dropdown dropdown
+2022-12-05 13:52:48,791 - pages.BasePage -INFO - Clicked on Area dropdown button
+2022-12-05 13:52:48,869 - pages.BasePage -INFO - Select ???? from area dropdown dropdown
+2022-12-05 13:52:48,986 - pages.BasePage -INFO - Clicked on Category dropdown button
+2022-12-05 13:52:49,069 - pages.BasePage -INFO - Select ?? from category dropdown dropdown
+2022-12-05 13:52:49,270 - pages.BasePage -INFO - Clicked on search gift button
+2022-12-05 13:52:49,998 - pages.BasePage -INFO - Clicked on GiftCard: ????? ????? Aberto
+2022-12-05 13:52:50,242 - pages.BasePage -INFO - Sending Keys to amount : 123
+2022-12-05 13:52:50,414 - pages.BasePage -INFO - Clicked on money
+2022-12-05 13:52:51,004 - pages.BasePage -INFO - Sending Keys to Receiver name : myFriend
+2022-12-05 13:52:51,065 - pages.BasePage -INFO - Clicked on Bless dropdown
+2022-12-05 13:52:51,126 - pages.BasePage -INFO - Select ???? from Bless dropdown dropdown
+2022-12-05 13:52:51,217 - pages.BasePage -INFO - Clearing Tet from Custom bless input
+2022-12-05 13:52:51,298 - pages.BasePage -INFO - Sending Keys to custom bless input : ??? ??? ????? ????
+2022-12-05 13:52:51,527 - pages.BasePage -INFO - Clicked on continueBtn
+2022-12-05 13:52:51,720 - pages.BasePage -INFO - Clicked on Later Button
+2022-12-05 13:52:51,793 - pages.BasePage -INFO - Clicked on Calender
+2022-12-05 13:52:51,834 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:52:51,958 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:52:52,040 - pages.BasePage -INFO - Return Text from MonthDateValue : ??????
+2022-12-05 13:52:52,122 - pages.BasePage -INFO - Return Text from MonthDateValue : ???
+2022-12-05 13:52:52,195 - pages.BasePage -INFO - Return Text from MonthDateValue : ?????
+2022-12-05 13:52:52,260 - pages.BasePage -INFO - Return Text from MonthDateValue : ???
+2022-12-05 13:52:52,329 - pages.BasePage -INFO - Return Text from MonthDateValue : ????
+2022-12-05 13:52:52,398 - pages.BasePage -INFO - Return Text from MonthDateValue : ????
+2022-12-05 13:52:52,488 - pages.BasePage -INFO - Select 8 from day dropdown
+2022-12-05 13:52:52,645 - pages.BasePage -INFO - Clicked on date dropdown
+2022-12-05 13:52:52,736 - pages.BasePage -INFO - Select 11:15 from hour dropdown
+2022-12-05 13:52:52,836 - pages.BasePage -INFO - Clicked on email button
+2022-12-05 13:52:52,936 - pages.BasePage -INFO - Sending Keys to email input : myEmail@xyz.com
+2022-12-05 13:52:53,011 - pages.BasePage -INFO - Sending Keys to name : me
+2022-12-05 13:52:53,110 - pages.BasePage -INFO - Clicked on Continue btn
+2022-12-05 13:52:53,329 - pages.BasePage -INFO - Sending Keys to email : userEmail1@xyz.com
+2022-12-05 13:52:53,411 - pages.BasePage -INFO - Sending Keys to password : a1b1c1d1X
+2022-12-05 13:52:53,502 - pages.BasePage -INFO - Clicked on loginBtn
+2022-12-05 13:52:56,475 - pages.BasePage -INFO - Return Text from payment : ?123
+2022-12-05 13:52:56,479 - Assertion.AssertionHelper -INFO - Verify if 123Equals with 123
